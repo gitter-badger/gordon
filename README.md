@@ -13,6 +13,8 @@ Documentation: http://gordon.readthedocs.io/en/latest/
 
 Features
 ---------
+
+[![Join the chat at https://gitter.im/jorgebastida/gordon](https://badges.gitter.im/jorgebastida/gordon.svg)](https://gitter.im/jorgebastida/gordon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * 100% CloudFormation resource creation
 * 100% Boilerplate free
 * 100% isolated and dead-simple multi-stage and multi region deployments
